@@ -1,0 +1,107 @@
+﻿province,health_region,latitude,longitude
+Quebec,Abitibi-Témiscamingue,47.7344,-77.6728
+Ontario,Algoma,47.6459,-84.7952
+Quebec,Bas-Saint-Laurent,47.8678,-68.9177
+Ontario,Brant,43.1527,-80.1716
+Quebec,Côte-Nord,50.8967,-66.1497
+Alberta,Calgary,51.0447,-114.0719
+Quebec,Capitale-Nationale,47.333333,-71.5
+Alberta,Central,52.2883,-113.813849
+NL,Central,48.94081,-55.644177
+Saskatchewan,Central,51.2174,-102.4739
+Ontario,Chatham-Kent,42.4048,-82.191
+Quebec,Chaudière-Appalaches,46.108374,-71.277334
+Ontario,Durham,43.9368,-78.9288
+NL,Eastern,47.405576,-53.416554
+Ontario,Eastern,45.268879,-75.080321
+Alberta,Edmonton,53.5461,-113.4938
+Quebec,Estrie,45.4042,-71.8929
+Saskatchewan,Far North,55.1082,-105.286
+BC,Fraser,49.207929,-122.846269
+Quebec,Gaspésie-Îles-de-la-Madeleine,48.683333,-65.4
+Ontario,Grey Bruce,44.466,-80.6327
+Ontario,Haldimand-Norfolk,42.9277,-79.8762
+Ontario,Haliburton Kawartha Pineridge,44.2601,-78.3514
+Ontario,Halton,43.5325,-79.8745
+Ontario,Hamilton,43.2557,-79.8711
+Ontario,Hastings Prince Edward,44.1631,-77.3753
+Ontario,Huron Perth,43.6417,-81.6912
+BC,Interior,49.8887,-119.4927
+Manitoba,Interlake-Eastern,50.1382,-96.8818
+BC,Island,48.4336,-123.3269
+Ontario,Kingston Frontenac Lennox & Addington,44.3176,-76.8852
+NL,Labrador-Grenfell,53.420984,-61.496527
+Ontario,Lambton,43.0527,-82.0407
+Quebec,Lanaudière,46.1256,-73.7042
+Quebec,Laurentides,46.6182,-75.0181
+Quebec,Laval,45.6066,-73.7124
+Ontario,Leeds Grenville and Lanark,44.653,-75.9327
+Quebec,Mauricie,46.663,-72.8512
+Ontario,Middlesex-London,42.9849,-81.2453
+Quebec,Montérégie,45.3392,-73.2691
+Quebec,Montréal,45.508888,-73.561668
+Ontario,Niagara,43.0896,-79.0849
+Quebec,Nord-du-Québec,50.344767,-74.461172
+Alberta,North,56.889177,-115.312134
+Saskatchewan,North,53.2033,-105.7531
+Ontario,North Bay Parry Sound,46.3132,-79.4677
+BC,Northern,57.9651,-124.2028
+Manitoba,Northern,56.8024,-97.9733
+Ontario,Northwestern,51.862559,-90.16137
+Alberta,Not Reported,54.4,-115
+BC,Not Reported,53.726669,-127.647621
+Manitoba,Not Reported,53.76086,-98.813873
+New Brunswick,Not Reported,46.49839,-66.159668
+NL,Not Reported,53.135509,-57.660435
+Nova Scotia,Not Reported,44.682,-63.7443
+Nunavut,Not Reported,70.2998,-83.1076
+NWT,Not Reported,64.8255,-124.8457
+Ontario,Not Reported,50,-85
+PEI,Not Reported,46.5107,-63.4168
+Quebec,Not Reported,53,-70
+Repatriated,Not Reported,,
+Saskatchewan,Not Reported,52.9399,-106.4509
+Yukon,Not Reported,64.2823,-135
+Quebec,Nunavik,55,-64
+Nunavut,Nunavut,70.2998,-83.1076
+NWT,NWT,64.8255,-124.8457
+Ontario,Ottawa,45.4215,-75.6972
+Quebec,Outaouais,45.4765,-75.7013
+Ontario,Peel,43.6766,-79.7848
+Ontario,Peterborough,44.3091,-78.3197
+Ontario,Porcupine,48.495,-81.191
+Manitoba,Prairie Mountain,50.782793,-99.82181
+PEI,Prince Edward Island,46.5107,-63.4168
+Saskatchewan,Regina,50.4452,-104.6189
+Ontario,Renfrew,45.4749,-76.6877
+Quebec,Saguenay,48.4281,-71.0685
+Saskatchewan,Saskatoon,52.1332,-106.67
+Ontario,Simcoe Muskoka,44.4717,-79.8297
+Alberta,South,49.6956,-112.8451
+Saskatchewan,South,50.3916,-105.5349
+Manitoba,Southern Health,49.9689,-98.2796
+Ontario,Southwestern,46.533333,-84.349998
+Ontario,Sudbury,46.4917,-80.993
+Quebec,Terres-Cries-de-la-Baie-James,52.155821,-78.056932
+Ontario,Thunder Bay,48.3809,-89.2477
+Ontario,Timiskaming,47.8308,-80.3195
+Ontario,Toronto,43.666667,-79.416667
+BC,Vancouver Coastal,49.282729,-123.120738
+Ontario,Waterloo,43.4643,-80.5204
+Ontario,Wellington Dufferin Guelph,43.5249,-80.2337
+NL,Western,48.9485,-57.9306
+Ontario,Windsor-Essex,42.3149,-83.0364
+Manitoba,Winnipeg,49.8951,-97.1384
+Ontario,York,43.6957,-79.4504
+Yukon,Yukon,64.2823,-135
+Nova Scotia,Zone 1 - Western,44.409378,-65.157507
+New Brunswick,Zone 1 (Moncton area),46.0878,-64.7782
+Nova Scotia,Zone 2 - Northern,45.651822,-64.059031
+New Brunswick,Zone 2 (Saint John area),45.2733,-66.0633
+Nova Scotia,Zone 3 - Eastern,45.645654,-61.418068
+New Brunswick,Zone 3 (Fredericton area),45.9636,-66.6431
+Nova Scotia,Zone 4 - Central,44.648122,-63.630153
+New Brunswick,Zone 4 (Edmundston area),47.369,-68.3267
+New Brunswick,Zone 5 (Campbellton area),48.0074,-66.6722
+New Brunswick,Zone 6 (Bathurst area),47.6184,-65.6513
+New Brunswick,Zone 7 (Miramichi area),47.0296,-65.5059
